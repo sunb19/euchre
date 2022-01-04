@@ -1,2 +1,2 @@
-# p3-euchre
+# euchre
 
